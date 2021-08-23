@@ -13,7 +13,7 @@ echo $((y = a * b + c))
 echo $y
 
 echo $((z = c + a / b))
-echo $y
+echo $z
 
 echo $((u = a % b + c))
 echo $u
